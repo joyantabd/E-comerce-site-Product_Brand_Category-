@@ -3,9 +3,17 @@
  
  # Getting Start
      You can only download the source code and open your local server and play the project.
-     
+   
+   
+   
+   
+   
  # Prerequisites
  -Any local Server
+ 
+ 
+ 
+ 
  
  # Built With
  -PHP
@@ -13,6 +21,8 @@
  
  
  # Author
- # Joyanta Kumar Sarker
+ 
+ 
+ Joyanta Kumar Sarker
  jsarker96@gmail.com
  www.joyanta.bd.education
